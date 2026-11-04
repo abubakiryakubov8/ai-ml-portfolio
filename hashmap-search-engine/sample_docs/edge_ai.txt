@@ -1,0 +1,1 @@
+Edge AI runs machine learning models directly on a microcontroller or embedded device. Sensor data such as voice, vision, and touch is processed locally with low power and low latency.

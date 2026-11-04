@@ -1,0 +1,1 @@
+Embedded systems combine a microcontroller with sensors and firmware. A microcontroller reads sensor data, runs small programs, and controls hardware such as motors and displays.

@@ -1,0 +1,1 @@
+Machine learning models learn patterns from data. Training a model means fitting its parameters, and evaluation on unseen data shows how well the model generalizes.
